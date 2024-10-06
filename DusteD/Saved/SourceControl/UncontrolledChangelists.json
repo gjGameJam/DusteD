@@ -191,7 +191,19 @@
 				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopBackground.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/inGameBackground.uasset",
 				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/dustButton.uasset",
-				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Blueprints/Widgets/WBP_DustGenerationStorage.uasset"
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Blueprints/Widgets/WBP_DustGenerationStorage.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/DustBunny.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/MarbleIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/LegoIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/MuscroomIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/PetRockIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/PoTheBearIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/PenguinIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/CloudPlushyIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/FrogIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/ShopIcons/PomPomMonsterIcon.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Assets/InGameShelf.uasset",
+				"C:/Users/Grant Benson/OneDrive/Desktop/Grant's Game Development/LD/Idle/DusteD/DusteD/Content/Blueprints/Widgets/WBP_ShelfIcon.uasset"
 			]
 		}
 	]
